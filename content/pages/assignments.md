@@ -47,7 +47,7 @@ Due: Lecture 5
 
 [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_29s15_ps2_sp2015_v4)
 
-[Lyn\_sys\_solver.M (M)](/courses/mechanical-engineering/2-29-numerical-fluid-mechanics-spring-2015/assignments/Lyn_sys_solver.m.txt)
+{{% resource_link "509e762c-bc01-f802-a3cf-44725eb61bd5" "Lyn\_sys\_solver.M (M)" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +106,7 @@ Due: Lecture 16
 
 [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit2_29s15_ps5_sp2015_v3)
 
-[MATLAB Codes for Problem Set 5 (TXT)](/courses/mechanical-engineering/2-29-numerical-fluid-mechanics-spring-2015/assignments/MATLAB_Script_for_Problem_Set5.txt)
+{{% resource_link "45b7e715-c785-ef1a-452a-b5f5d4c87237" "MATLAB Codes for Problem Set 5 (TXT)" %}}
 
 
 {{< tdclose >}}
@@ -127,7 +127,7 @@ Due: Lecture 19
 
 [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit2_29s15_ps6_sp2015_v1)
 
-[MATLAB Codes for Problem Set 6 (TXT)](/courses/mechanical-engineering/2-29-numerical-fluid-mechanics-spring-2015/assignments/MATLAB_Script_for_Problem_Set6.txt)
+{{% resource_link "1ed10dad-7b10-54c9-c8db-92797ce606cb" "MATLAB Codes for Problem Set 6 (TXT)" %}}
 
 
 {{< tdclose >}}
